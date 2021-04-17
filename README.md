@@ -1,16 +1,18 @@
-### Hi there 👋
+# DjCtavia
 
-<!--
-**DjCtavia/DjCtavia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Etienne, when I'm online I'm used to be called DjCtavia!
+(Also Dj, or just Ctavia, do whatever you want!)
 
-Here are some ideas to get you started:
+### The languages and frameworks I spend the most of my time
+* [PHP](https://www.php.net)
+* [Symfony](https://symfony.com)
+* [JavaScript](https://www.javascript.com)
+* [React](https://reactjs.org)
+* [Enforce Script](https://community.bistudio.com/wiki/DayZ:Enforce_Script_Syntax)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I like
+* Playing (Wasn't it obvious? :smile:) :video_game:
+* Spending time with friends & family :family:
+* Watching series :tv:
+* Do endurance :running:
+* Open source :open_file_folder:
