@@ -15,4 +15,5 @@ Hi! My name is Etienne, when I'm online I'm used to be called DjCtavia!
 * Spending time with friends & family :family:
 * Watching series :tv:
 * Do endurance :running:
+* Reading 📙
 * Open source :open_file_folder:
